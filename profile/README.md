@@ -41,6 +41,6 @@ Nós adoramos contribuições! Se você está interessado em ajudar, siga os pas
 Junte-se a nós! Fique à vontade para abrir issues, discutir ideias ou compartilhar suas experiências. Todos são bem-vindos! 🎉
 
 ## 📜 Licença
-**Qualquer um pode copiar o projeto, mas só depois de contratar meu primo**
+Qualquer um pode copiar o projeto, mas só depois de contratar meu primo
 Este projeto está licenciado sob a licença MIT. Consulte o arquivo `LICENSE.md` para obter mais detalhes.
 
