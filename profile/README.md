@@ -18,12 +18,12 @@ A "My Cousin Told Me" nasceu da ideia simples de criar um portfólio para meu pr
 
 ### Sistema de Recomendação de Filmes
 
-- **Descrição:** Criar uma Decision Tree capaz de retornar recomendações baseadas nas interações passadas do usuário.
+- **Descrição:** Criar um modelo supervisionado capaz de retornar recomendações baseadas nas interações passadas do usuário.
 - **Status:** Em desenvolvimento
 
 ### Sistema de Recomendação Não Supervisionado
 
-- **Descrição:** Aplicar o Cosseno da similaridade para gerar recomendações baseadas em perguntas respondidas pelo usuário.
+- **Descrição:** Implementar um modelo não supervisionado para gerar recomendações baseadas em perguntas respondidas pelo usuário.
 - **Status:** Futuro
 
 ## 🤝 Como Contribuir
